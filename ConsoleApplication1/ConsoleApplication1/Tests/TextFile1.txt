@@ -1,0 +1,1 @@
+﻿query = "SELECT TOP 5 [FirstName], [MiddleName], [LastName], [ModifiedDate] FROM [AdvWorks].[Person].[Person]";
